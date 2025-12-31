@@ -1,0 +1,28 @@
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node / frontend (if tools are added later)
+node_modules/
+
+# AWS / SAM / Serverless artifacts
+.aws-sam/
+samconfig.toml
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
