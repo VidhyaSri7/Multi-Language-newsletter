@@ -1,6 +1,6 @@
 # Multi-Language Voice Newsletter System (AWS)
 
-The Multi-language Newsletter is a web application designed to create, manage, and send newsletters in multiple languages. It allows users to subscribe to newsletters based on their language preference and receive personalized content via email.
+The Multi-language Voice Newsletter System is a web application designed to create, manage, and send newsletters in multiple languages. It allows users to subscribe to newsletters based on their language preference and receive personalized content via email.
 
 ## Features
 - Multi-language text-to-speech using Amazon Polly
